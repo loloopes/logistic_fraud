@@ -40,7 +40,7 @@ A Regressão Logística é adequada para problemas de classificação binária, 
 
 
 
-### Credit Card Fraud Detection Project using Logistic Regression
+# Credit Card Fraud Detection Project using Logistic Regression
 
 ## Introduction
 With the advancement of technology and the increasing use of credit cards for financial transactions, fraud detection has become a critical challenge.
