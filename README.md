@@ -11,11 +11,11 @@ A Regressão Logística é adequada para problemas de classificação binária, 
 
 ## Fluxo de Trabalho e Ferramentas
 
-  ### Manipulação e Visualização de Dados:
+  # Manipulação e Visualização de Dados:
   * Pandas: Manipulação e pré-processamento dos dados.
   * Seaborn e Plotly: Visualização das distribuições, relacionamentos e padrões nos dados.
   
-  ### Tratamento do Desbalanceamento de Classes:
+  # Tratamento do Desbalanceamento de Classes:
    * Reamostragem: Correção do desbalanceamento usando técnicas como SMOTE (Synthetic Minority Oversampling Technique).
   
   # Desenvolvimento e Avaliação do Modelo:
@@ -26,7 +26,7 @@ A Regressão Logística é adequada para problemas de classificação binária, 
   # Download Externo de Dados:
   * gdown: Download direto de conjuntos de dados de fontes externas.
 
-  ### Principais Conclusões
+  # Principais Conclusões
   * O treinamento em dados desbalanceados resultou em um modelo com um aumento de 3% na acurácia geral.
   * No entanto, ao ser testado em dados reais, o treinamento em conjuntos de dados balanceados usando SMOTE apresentou uma melhoria de 11% na identificação de transações fraudulentas, destacando a importância de tratar o desbalanceamento de classes.
 
